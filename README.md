@@ -1,11 +1,11 @@
 
 # հայկ.հայ
 
-![language](https://img.shields.io/badge/HTML-blue.svg?style=flat-square)![language](https://img.shields.io/badge/CSS-red.svg?style=flat-square)![language](https://img.shields.io/badge/Javascript-green.svg?style=flat-square) ![language](https://img.shields.io/badge/Հ-red?style=flat-square)![language](https://img.shields.io/badge/Ա-blue?style=flat-square)![language](https://img.shields.io/badge/Յ-orange?style=flat-square)
-
 > անձնական կայք
 
 For the english version, go [here](https://github.com/haykkh/haykkh.github.io).
+
+![language](https://img.shields.io/badge/HTML-blue.svg?style=flat-square)![language](https://img.shields.io/badge/CSS-red.svg?style=flat-square)![language](https://img.shields.io/badge/Javascript-green.svg?style=flat-square) ![language](https://img.shields.io/badge/Հ-red?style=flat-square)![language](https://img.shields.io/badge/Ա-blue?style=flat-square)![language](https://img.shields.io/badge/Յ-orange?style=flat-square)
 
 ![Header](header.png)
 
